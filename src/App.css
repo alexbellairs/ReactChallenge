@@ -4,10 +4,13 @@
 .images {
   display: flex;
   justify-content: center;
-  background-color: black;
+  /* background-color: black;
+  color: white; */
+  text-align: left;
 }
 .images img {
-  width: 370px;
-  height: 550px;
-  padding: 3px;
+  width: 350px;
+  height: 350px;
+  border-radius: 10%;
+  padding: 25px;
 }
