@@ -4,8 +4,10 @@
 .images {
   display: flex;
   justify-content: center;
+  background-color: black;
 }
 .images img {
   width: 370px;
   height: 550px;
+  padding: 3px;
 }
