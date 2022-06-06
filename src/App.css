@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+.images {
+  display: flex;
+  justify-content: center;
+}
+.images img {
+  width: 370px;
+  height: 550px;
+}
