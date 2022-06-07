@@ -8,7 +8,7 @@ import Pet from "./components/Pet";
 // import STdisco from "./images/startrek-discovery.jpg";
 // import QueenG from "./images/queens-gambit.jpg";
 // import Witcher from "./images/witcher.jpg";
-// import ImageLink from "./components/ImageLink";
+import ImageLink from "./components/ImageLink";
 import Float from "./images/float.jpg";
 import LivingRoom from "./images/lux-living-room.webp";
 import Villa from "./images/villa.jpg";
